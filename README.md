@@ -47,7 +47,33 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+Data.Head():
 
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/ccf52b5d-069a-4577-8a4f-53a186e2a0b0)
+
+Data.info():
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/f13e5cd6-60e5-460a-aca5-25333b658b82)
+
+isnull() and sum():
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/d24469dd-91dc-4fb9-887d-5e977379d855)
+
+Data.Head() for salary:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/5bbb7d7d-afdd-4518-aa44-4748430ff39a)
+
+MSE Value:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/b3bfef24-f3a7-4f44-bdfe-96af43c3b7ee)
+
+r2 Value:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/6cbd9c8f-b583-4c06-b633-36518138451b)
+
+Data Prediction:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/143114486/5e32a429-c680-47d9-a196-b5cab4d3f3e9)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
